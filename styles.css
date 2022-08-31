@@ -58,6 +58,12 @@ h1 {
 
 .dice-index{
   text-align: center;
+  dispay: flex;
+  align-content: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 3em;
+  width: 60%;
 }
 
 p {
